@@ -19,15 +19,34 @@ My platform is built with "Raspberry Pi" devices, which are ARM64 single board c
 I'll provide the things, that software engineers get from their platform teams, in the enterprise, but with "homelab grade" service level agreements (SLA).
 We will learn together.
 
+The goal is for you to have something "in production" that you have built, that you understand, that you maintain.
+
 ## What do I do?
 
 - You have to show up for the community
 - You will have to submit a "pull request" first, updating the Bootiful list below.
-- The you will wait to get chosen for onboarding.
-- Onboarding is at the discretion of the person doing the onboarding.
+- Onboarding is at the discretion of the person doing the onboarding, and me.
 
-### Bootiful Path To Production
+## Learn by teaching
 
-|My Github|The Bootiful GitHub Organization|Why I'm here|
----------------------------------------------------------
-|[DaShaun](https://github.com/dashaun)|[Javagrunt](https://github.com/javagrunt-com)|Every rep counts. Lift as we climb. We move.|
+I have some resources, that I would like to share. I have some ideas and experience, that I would like to share. I believe that this will help people learn, more, faster, and stickier.
+Everything is "public" on purpose.
+
+## Milestone 1
+
+- Register the `.org` domain name: mydomain.org
+- Create the GitHub Organization: mydomain-org
+- Create the Gateway Service Repo: org.mydomain.service.gateway
+- Use [start.spring.io](https://start.spring.io) to create the application: Maven, Java 21, with dependencies: GraalVM, Reactive Spring Cloud Gateway, Actuator
+- Apply the CLI commands to update the pom.xml
+- Tag the repo: v0.0.1
+- Create the `flux` repository
+- Add `kustomization.yaml` and `org.mydomain.service.gateway.yaml` to the `flux` repository
+- (wait)
+- Validate: https://mydomain.org/actuator/health status == "up"
+
+## Bootiful Path To Production
+
+| My GitHub | Onboarded by | Production |
+|-----------| ------------ | ---------- |
+| [DaShaun](https://github.com/dashaun) | [DaShaun](https://github.com/dashaun) | [javagrunt.com](https://javagrunt.com)|
