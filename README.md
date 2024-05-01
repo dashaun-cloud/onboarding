@@ -2,7 +2,7 @@
 
 This is an experiment.  On May 1, 2024, I said I was willing to help.  Eunice was ready to learn.
 I had an idea of how I could help.  Eunice agreed to take a chance.
-I had some conventions in my head, and mostly ready to go, from the work I do while streaming and practicing.
+I had some conventions in my head. I had infrastructure and code mostly ready to go, from the work I do while streaming and practicing.
 Eunice asked me "Why are you doing this for free, what's in it for you?"
 
 "Lift as we climb!"
