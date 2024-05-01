@@ -47,6 +47,9 @@ Everything is "public" on purpose.
 
 ## Bootiful Path To Production
 
+Create a `pull request` adding your name to the first column.
+The other 2 columns will be updated during onboarding.
+
 | My GitHub | Onboarded by | Production |
 |-----------| ------------ | ---------- |
 | [DaShaun](https://github.com/dashaun) | [DaShaun](https://github.com/dashaun) | [javagrunt.com](https://javagrunt.com)|
