@@ -54,3 +54,4 @@ The other 2 columns will be updated during onboarding.
 |-----------| ------------ | ---------- |
 | [DaShaun](https://github.com/dashaun) | [DaShaun](https://github.com/dashaun) | [javagrunt.com](https://javagrunt.com)|
 | [Eunice](https://github.com/eunix56) | 
+| [Manuel](https://github.com/manuelinfosec) | 
