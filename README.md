@@ -61,5 +61,6 @@ The other 2 columns will be updated during onboarding.
 | [Eunice](https://github.com/eunix56) |
 | [Manuel](https://github.com/manuelinfosec) | 
 | [Jiggabyte](https://github.com/jiggabyte) | 
+| [Korede](https://github.com/Kordedekehine) | 
 
 
