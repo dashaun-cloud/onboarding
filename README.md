@@ -38,8 +38,13 @@ Everything is "public" on purpose.
 - Create the GitHub Organization: mydomain-org
 - Create the Gateway Service Repo: org.mydomain.service.gateway
 - Use [start.spring.io](https://start.spring.io) to create the application: Maven, Java 21, with dependencies: GraalVM, Reactive Spring Cloud Gateway, Actuator
-- Apply the CLI commands to update the pom.xml
-- Tag the repo: v0.0.1
+
+## Milestone 2
+- Install [Spring CLI](https://docs.spring.io/spring-cli/reference/installation.html)
+- In the root of your project, Install CLI commands `spring command add --from https://github.com/dashaun-project-catalog/commands`
+- `spring extensions add`
+- Tag the repo: `git tag v0.0.1`
+- Push the tag: `git push origin v0.0.1`
 - Create the `flux` repository
 - Add `kustomization.yaml` and `org.mydomain.service.gateway.yaml` to the `flux` repository
 - (wait)
