@@ -58,7 +58,7 @@ The other 2 columns will be updated during onboarding.
 | My GitHub | Onboarded by | Production |
 |-----------| ------------ | ---------- |
 | [DaShaun](https://github.com/dashaun) | [DaShaun](https://github.com/dashaun) | [javagrunt.com](https://javagrunt.com)|
-| [Eunice](https://github.com/eunix56) |
+| [Eunice](https://github.com/eunix56) | [DaShaun](https://github.com/dashaun) | [euniceb.org](https://euniceb.org)]
 | [Manuel](https://github.com/manuelinfosec) | 
 | [Jiggabyte](https://github.com/jiggabyte) | 
 | [Korede](https://github.com/Kordedekehine) |
