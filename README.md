@@ -63,6 +63,7 @@ The other 2 columns will be updated during onboarding.
 | [Jiggabyte](https://github.com/jiggabyte) | 
 | [Korede](https://github.com/Kordedekehine) |
 | [Ifeanyichukwu](https://github.com/ifeanyichukwuOtiwa-sports)|
+| [Oluwafemi](https://github.com/Oluwafemijohn1)|
 | [Chukwuemeka](https://github.com/Charlyco)]
 
 
