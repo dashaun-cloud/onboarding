@@ -65,5 +65,6 @@ The other 2 columns will be updated during onboarding.
 | [Ifeanyichukwu](https://github.com/ifeanyichukwuOtiwa-sports)|
 | [Oluwafemi](https://github.com/Oluwafemijohn1)|
 | [Chukwuemeka](https://github.com/Charlyco)]
+| [kastourik12](https://github.com/kastourik12)]
 
 
